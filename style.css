@@ -1,3 +1,6 @@
-#carousel-item  h5{
-    color: black;
+
+
+.profil{
+    border-radius: 50%;
+    box-shadow: 10px 2px 10px black;
 }
