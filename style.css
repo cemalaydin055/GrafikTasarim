@@ -6,3 +6,8 @@
 }
 
 
+ .navbar-nav .nav-item .nav-link:hover
+,.navbar-brand .fa-solid:hover{
+    color: #17a2b8;
+}
+
