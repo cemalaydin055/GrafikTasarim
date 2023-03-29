@@ -11,3 +11,40 @@
     color: #17a2b8;
 }
 
+
+
+footer .list-unstyled
+{
+    font-size: 1.1rem;
+    color:#6e7479;
+}
+
+footer .list-unstyled:hover
+{
+    font-size: 1.1rem;
+    color: #17a2b8!important;
+}
+
+
+.copyright
+{
+    background-color:#343a40;
+    color: #fff;
+    text-align: center;
+    font-size: 1rem;
+}
+
+
+.social .fa-brands
+{
+    font-size: 2rem;
+    text-align: center;
+    padding: .6rem 2rem;
+}
+
+
+.social .fa-brands:hover
+{
+    
+    color:#17a2b8;;
+}
