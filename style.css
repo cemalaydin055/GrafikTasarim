@@ -35,11 +35,16 @@ footer .list-unstyled:hover
 }
 
 
+
+.card:hover{
+    box-shadow: .1rem .1rem .1rem #17a2b8;
+}
+
 .social .fa-brands
 {
-    font-size: 2rem;
+    font-size: 1.6rem;
     text-align: center;
-    padding: .6rem 2rem;
+    padding: .6rem 2.8rem;
 }
 
 
@@ -47,4 +52,11 @@ footer .list-unstyled:hover
 {
     
     color:#17a2b8;;
+}
+
+.list-unstyled .text-muted:hover
+{
+    color: #17a2b8!important;
+    text-decoration: none;
+    transition: .3s;
 }
