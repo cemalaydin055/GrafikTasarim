@@ -1,4 +1,4 @@
-
+/**index sayfası*/
 
 .profil{
     border-radius: 50%;
@@ -60,3 +60,6 @@ footer .list-unstyled:hover
     text-decoration: none;
     transition: .3s;
 }
+
+
+/*about sayfası */
