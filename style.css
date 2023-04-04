@@ -93,6 +93,12 @@ figure.zoom {
   }
 
 
+  .container nav
+  {
+    float: right!important;
+    
+  }
+
 
 /*contact.html*/
 
