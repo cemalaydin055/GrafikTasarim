@@ -98,6 +98,74 @@ figure.zoom {
     float: right!important;
     
   }
+/*
+  @media (max-width: 575.98px) 
+  {
+    .bd-example
+    {
+        width: 90%;
+        margin: auto;
+    }
+   .col-md-6 .zoom
+    {
+        width: 80%;
+        margin:1rem auto ;
+    }
+    .upnav
+    {
+        width: 70%;
+       margin: 0 auto;
+    }
+
+
+  }
+
+  
+  @media (min-width: 576px) and (max-width: 767.98px)
+   { 
+    .bd-example
+    {
+        width: 90%;
+        margin: auto;
+    }
+   .col-md-6 .zoom
+    {
+            width:80%;
+            margin:1rem auto ;
+     
+    }
+    .upnav
+    {
+        width: 70%;
+       margin: 0 auto;
+    }
+   }
+  
+  
+  @media (min-width: 768px) and (max-width: 991.98px)
+   {
+    .bd-example
+    {
+        width: 100%;
+        margin:auto 0;
+        padding: .1rem;
+    }
+     .col-md-8 .zoomimage
+    {
+          width: 100%; 
+     
+    }
+    .upnav
+    {
+        width: 70%;
+       margin: 0 auto;
+    }
+   }
+  
+ 
+
+
+*/
 
 
 /*contact.html*/
@@ -115,5 +183,4 @@ figure.zoom {
     width: 100% !important;
     height: 60% !important;
 }
-
 
