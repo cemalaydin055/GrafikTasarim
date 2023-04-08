@@ -98,7 +98,8 @@ figure.zoom {
     float: right!important;
     
   }
-/*
+
+  
   @media (max-width: 575.98px) 
   {
     .bd-example
@@ -128,7 +129,7 @@ figure.zoom {
         width: 90%;
         margin: auto;
     }
-   .col-md-6 .zoom
+   .col-md-8 .zoom
     {
             width:80%;
             margin:1rem auto ;
@@ -152,7 +153,7 @@ figure.zoom {
     }
      .col-md-8 .zoomimage
     {
-          width: 100%; 
+          width: 20%; 
      
     }
     .upnav
@@ -162,6 +163,17 @@ figure.zoom {
     }
    }
   
+
+   @media (min-width: 992px)
+    { 
+
+    }
+
+
+@media (min-width: 1200px)
+    { 
+        
+    }
  
 
 
