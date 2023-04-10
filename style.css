@@ -99,6 +99,13 @@ figure.zoom {
     
   }
 
+
+  
+
+    
+
+
+/*
   
   @media (max-width: 575.98px) 
   {
@@ -129,10 +136,11 @@ figure.zoom {
         width: 90%;
         margin: auto;
     }
-   .col-md-8 .zoom
+   .col-md-4 .zoom
     {
             width:80%;
-            margin:1rem auto ;
+            margin:1.3rem auto ;
+           
      
     }
     .upnav
@@ -145,16 +153,19 @@ figure.zoom {
   
   @media (min-width: 768px) and (max-width: 991.98px)
    {
+    /*
     .bd-example
     {
         width: 100%;
         margin:auto 0;
         padding: .1rem;
     }
-     .col-md-8 .zoomimage
+     .col-md-4 .zoomimage
     {
-          width: 100%; 
-          margin: 1rem auto ;
+          width:100%; 
+          box-sizing: border-box;
+          margin-right: 50%;
+          
      
     }
     .upnav
@@ -165,17 +176,14 @@ figure.zoom {
    }
   
 
-   @media (min-width: 992px)
+  
+   @media (min-width: 992px) and (max-width: 1200px)
     { 
 
     }
+*/
 
 
-@media (min-width: 1200px)
-    { 
-
-    }
- 
 
 
 */
