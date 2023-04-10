@@ -101,92 +101,86 @@ figure.zoom {
 
 
   
-
+  @media (max-width:575.98px) 
+  { 
+   .bd-example
+   {
+       width: 90%;
+       margin: auto;
+   }
+  .col-md-3 .zoom
+   {
+       width:100%;
+       margin:1.3rem auto ;
+   } 
+   
+   }
+   .upnav
+   {
+       width: 70%;
+      margin: 0 auto;
+   }
+  
     
 
-
-/*
-  
-  @media (max-width: 575.98px) 
-  {
-    .bd-example
-    {
-        width: 90%;
-        margin: auto;
-    }
-   .col-md-6 .zoom
-    {
-        width: 80%;
-        margin:1rem auto ;
-    }
-    .upnav
-    {
-        width: 70%;
-       margin: 0 auto;
-    }
-
-
-  }
-
-  
   @media (min-width: 576px) and (max-width: 767.98px)
    { 
     .bd-example
-    {
-        width: 90%;
-        margin: auto;
-    }
-   .col-md-4 .zoom
-    {
-            width:80%;
-            margin:1.3rem auto ;
-           
-     
-    }
-    .upnav
-    {
-        width: 70%;
-       margin: 0 auto;
-    }
-   }
-  
-  
-  @media (min-width: 768px) and (max-width: 991.98px)
    {
-    /*
-    .bd-example
-    {
-        width: 100%;
-        margin:auto 0;
-        padding: .1rem;
-    }
-     .col-md-4 .zoomimage
-    {
-          width:100%; 
-          box-sizing: border-box;
-          margin-right: 50%;
-          
-     
-    }
-    .upnav
-    {
-        width: 70%;
-       margin: 0 auto;
-    }
+       width: 100%;
    }
+  .col-md-3 .zoom
+   {
+     width: 100%;
+          
+    
+   }
+
+   .col-sm-4
+   {
+    margin-left:4rem;
+    width: 100%;
+   }
+   
   
+   .upnav
+   {
+       width: 70%;
+      margin: 0 auto;
+   }
+ }
 
+ 
+   @media (min-width: 768px) and (max-width: 991.98px)
+    {
+      
+    .bd-example
+   {
+       width: 140%;
+       padding: .5rem;
+      
+   }
+ 
+   .col-sm-4
+   {
+    width: 40%;
+    margin-left: 5rem;
+   }
+   
   
-   @media (min-width: 992px) and (max-width: 1200px)
-    { 
-
-    }
-*/
-
-
-
-
-*/
+   .upnav
+   {
+       width: 50%;
+      margin: 0 auto;
+   }
+ }
+    
+   /*
+   
+   @media (min-width: 992px) and (max-width: 1199.98px) {  }
+   
+   // Extra large devices (large desktops, 1200px and up)
+   @media (min-width: 1200px) { ... }
 
 
 /*contact.html*/
