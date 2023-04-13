@@ -61,6 +61,21 @@ footer .list-unstyled:hover
     transition: .3s;
 }
 
+.lead{
+    font-size: 1.2rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:#212529;
+
+}
+
+.featurette .text-muted
+{
+   color: #566269!important; 
+    
+}
+
+
+
 
 @media (max-width:575.98px) 
 { 
